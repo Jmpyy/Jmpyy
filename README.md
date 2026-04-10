@@ -1,4 +1,4 @@
-<h1 align="center"># Hola, soy Juan Pablo Figueroa 👋</h1>
+<h1 align="center">Hola, soy Juan Pablo Figueroa 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-University_Student-f38ba8?style=for-the-badge&logo=googlescholar&logoColor=white" />
@@ -89,12 +89,9 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
   <a href="mailto:jp.figueroa98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
   <a href="https://linkedin.com/in/uanpablofigueroa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<p>
   <a href="https://discordapp.com/users/juampyy_.">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
