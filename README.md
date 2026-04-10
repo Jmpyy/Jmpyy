@@ -65,10 +65,10 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 
 <p align="center">
   <a href="https://github.com/Jmpyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Estadísticas de Jmpyy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&theme=tokyonight&hide_border=true&show_icons=true&v=99" alt="Estadísticas de Jmpyy" />
   </a>
   <a href="https://github.com/Jmpyy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&theme=tokyonight&hide_border=true&layout=compact&v=99" alt="Lenguajes más usados" />
   </a>
 </p>
 
