@@ -1,4 +1,4 @@
-# Hola, soy Juan Pablo Figueroa 👋
+<h1 align="center"># Hola, soy Juan Pablo Figueroa 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-University_Student-f38ba8?style=for-the-badge&logo=googlescholar&logoColor=white" />
