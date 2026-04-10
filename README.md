@@ -1,6 +1,9 @@
 # Hola, soy Juan Pablo Figueroa 👋
 
-**Desarrollador de Software | Estudiante de Ingeniería**
+<p align="left" center>
+  <img src="https://img.shields.io/badge/Status-University_Student-f38ba8?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Software_Developer-89dceb?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 📍 *Ezeiza, Buenos Aires, Argentina*
 
@@ -61,13 +64,13 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&show_icons=true&theme=dark&hide_border=true&bg_color=1E1E2E" alt="Estadísticas de Jmpyy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas de Jmpyy" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmpyy&theme=dark&hide_border=true&background=1E1E2E" alt="Racha de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmpyy&theme=dark&hide_border=true&v=1" alt="Racha de GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&layout=compact&theme=dark&hide_border=true&bg_color=1E1E2E" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&layout=compact&theme=dark&hide_border=true&v=1" alt="Lenguajes más usados" />
 </p>
 
 ---
