@@ -1,6 +1,6 @@
 # Hola, soy Juan Pablo Figueroa 👋
 
-<p align="left" center>
+<p align="center">
   <img src="https://img.shields.io/badge/Status-University_Student-f38ba8?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-Software_Developer-89dceb?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
@@ -64,13 +64,21 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&show_icons=true&theme=dark&hide_border=true&v=1" alt="Estadísticas de Jmpyy" />
+  <a href="https://github.com/Jmpyy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Estadísticas de Jmpyy" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmpyy&theme=dark&hide_border=true&v=1" alt="Racha de GitHub" />
+  <a href="https://github.com/Jmpyy">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmpyy&theme=dark&hide_border=true" alt="Racha de GitHub" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&layout=compact&theme=dark&hide_border=true&v=1" alt="Lenguajes más usados" />
+  <a href="https://github.com/Jmpyy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Lenguajes más usados" />
+  </a>
 </p>
 
 ---
