@@ -65,19 +65,16 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 
 <p align="center">
   <a href="https://github.com/Jmpyy">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Estadísticas de Jmpyy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jmpyy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Estadísticas de Jmpyy" />
+  </a>
+  <a href="https://github.com/Jmpyy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Lenguajes más usados" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Jmpyy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jmpyy&theme=dark&hide_border=true" alt="Racha de GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jmpyy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jmpyy&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Lenguajes más usados" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jmpyy&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Gráfico de Actividad" />
   </a>
 </p>
 
