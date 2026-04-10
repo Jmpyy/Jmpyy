@@ -16,7 +16,6 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 * 🔭 Actualmente trabajando en el desarrollo de plataformas logísticas y sistemas de administración de flotas.
 * 🌱 Profundizando mis conocimientos en **Arquitectura de Software**, **Seguridad Backend** y lenguajes de bajo nivel como **C**.
 * 💡 Me enfoco en escribir código limpio, mantenible y en aplicar buenas prácticas de desarrollo.
-* 💬 Pregúntame sobre: **React, Redux, Gestión de Bases de Datos (MySQL) o configuraciones en entornos Linux/WSL.**
 
 ---
 
