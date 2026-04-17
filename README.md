@@ -94,7 +94,7 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 
 ---
 
-### 📫 Contacto
+<h1 align="center">📫 Contacto</h1>
 
 <div align="center">
 
