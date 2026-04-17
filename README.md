@@ -63,12 +63,12 @@ Soy un desarrollador de software enfocado en la creación de aplicaciones web es
 *   **Tecnologías**: HTML5, CSS3 Moderno, JavaScript (ES6+).
 *   **Descripción**: Landing page corporativa y sistema de gestión optimizado para el seguimiento de activos logísticos, con un fuerte enfoque en UI/UX moderna y rendimiento de carga.
 
-#### [🩸 Sistema de Donación de Órganos (EDA)](https://github.com/Jmpyy/Proyecto-Donantes)
+#### [🩸 Sistema de Donación de Órganos (EDA)](https://github.com/Jmpyy/Proyecto-EDA1)
 *Software de bajo nivel para la gestión crítica de trasplantes y donaciones.*
 *   **Tecnologías**: C, OpenSSL (SHA-256), Archivos Binarios, Heaps de Prioridad.
 *   **Descripción**: Implementación robusta de estructuras de datos dinámicas para la asignación de órganos según niveles de urgencia médica. Cuenta con encriptación de seguridad para datos sensibles y persistencia eficiente.
 
-#### [🌍 Traccar-web (Fork)](https://github.com/Jmpyy/traccar-web)
+#### [🌍 Traccar-web (Fork)](https://github.com/Jmpyy/rutabit-monitoreo)
 *Personalización de plataforma GPS abierta.*
 *   **Tecnologías**: React, JavaScript Core.
 *   **Descripción**: Adaptación y mejora de módulos frontend para la visualización de geolocalización en tiempo real y gestión de flotas masivas.
